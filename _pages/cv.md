@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae (CV)"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,6 +8,11 @@ redirect_from:
 ---
 
 {% include base_path %}
+
+<!-- ### Non-extended version -->
+<embed src="{{ site.baseurl }}/files/CV-2023.3.pdf" width="500" height="500" type='application/pdf'>
+
+<!-- [Resume](../files/paper1.pdf)
 
 ## Education
 
@@ -56,4 +61,4 @@ redirect_from:
   
 ## Service and leadership
 
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
