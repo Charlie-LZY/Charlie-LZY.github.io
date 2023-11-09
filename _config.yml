@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zhiyun Liang (梁志云)"
+title                    : "Zhiyun Liang"
 title_separator          : "-"
-name                     : &name "Zhiyun Liang"
+name                     : &name "Zhiyun Liang (梁志云)"
 description              : &description "B.S. Student at CAU"
 url                      : https://charlie-lzy.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
